@@ -1,4 +1,4 @@
-# Isolated application for parallel computing
+# Isolated UWP application for parallel computing
 
 * Application enables user to load any number of images, invert them, and save inverted images.
 
